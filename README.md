@@ -9,7 +9,7 @@ Masking length for emailid and phone number are configurable.
 
 Assumptions EmailID: x@xyz.com, xy@xyz.com are considered valid emailId
 
-Assumptions Phone number : 10 digit standard length USA number and will only contian special characters like '(',')','-',' ' Also it will not contain country code.
+Assumptions Phone number : 10 digit standard length USA phone number and can only contian special characters like '(',')','-',' ' Also it will not contain country code.
 
 
 System requirements : Java Version = 8 and above, Import as maven project
