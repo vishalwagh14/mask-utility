@@ -55,7 +55,7 @@ public class CustomerInfoMaskUtilTest {
         }
     }
 
-    // Test case for al valid scenarios of customer contact info
+    // Test case for all valid scenarios of customer contact info
     // abcd@test1.com
     //   emailwithleadingspace@test4.com - email with leading spaces
     //   emailwithleadingntrailingspace@test4.com   - email with leading and trailing spaces
